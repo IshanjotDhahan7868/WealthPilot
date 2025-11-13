@@ -1,5 +1,7 @@
 import { notFound } from 'next/navigation';
 import { packages } from '../../../utils/investment';
+"use client";
+
 
 /*
  * PackageDetailPage displays details for a single investment package.

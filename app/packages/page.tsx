@@ -1,5 +1,7 @@
 import Link from 'next/link';
 import { packages } from '../../utils/investment';
+"use client";
+
 
 /*
  * PackagesPage displays all investment packages available in WealthPilot.

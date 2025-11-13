@@ -1,5 +1,6 @@
 import { useState, useEffect } from 'react';
 import { packages, estimateNetWorth } from '../../utils/investment';
+"use client";
 
 /*
  * IncomePage implements the income & budget planner as a standalone page.

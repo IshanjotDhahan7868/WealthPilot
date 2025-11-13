@@ -1,3 +1,4 @@
+
 /*
  * Home page for WealthPilot.
  *
@@ -9,6 +10,8 @@
  * would be fetched from Supabase or other APIs. For brevity, event
  * handlers and helper functions are defined within the component.
  */
+"use client";
+
 
 import { useEffect } from 'react';
 
