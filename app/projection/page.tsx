@@ -1,6 +1,7 @@
+"use client";
 import { useState, useEffect, useRef } from 'react';
 import { packages, runProjection } from '../../utils/investment';
-"use client";
+
 
 /*
  * ProjectionPage provides a full‑screen version of the projection tool.

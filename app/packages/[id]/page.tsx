@@ -1,6 +1,7 @@
+"use client";
 import { notFound } from 'next/navigation';
 import { packages } from '../../../utils/investment';
-"use client";
+
 
 
 /*
